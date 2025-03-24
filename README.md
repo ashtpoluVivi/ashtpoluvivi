@@ -3,12 +3,12 @@
 A passionate Tech Enthusiast and M.Sc. IT Student
 
 <p align="left">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer Animation" width="300"/>
+  <img src="https://raw.githubusercontent.com/VivekAshtpolu/VivekAshtpolu/main/assets/dark-theme-dev.gif" alt="Dark Theme Developer Animation" width="300"/>
 </p>
 
 - 🌐 All of my projects are available at [GitHub](https://github.com/VivekAshtpolu)
 - 💬 Ask me about **Web Development, Android App Development, and AWS**
-- 📫 How to reach me: **vivekashtpolu@gmail.com**
+- 👨‍� How to reach me: **vivekashtpolu@gmail.com**
 - ⚡ Fun fact: **Gamer and ButtonCraft Founder**
 
 ## Connect with me:
