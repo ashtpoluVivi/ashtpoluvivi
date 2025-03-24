@@ -22,6 +22,8 @@ A passionate Tech Enthusiast and M.Sc. IT Student
 
 ## GitHub Stats:
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashtpoluvivi&layout=compact&theme=radical)
+
 
 ---
 Feel free to personalize the animation or add anything else you’d like! 🚀
