@@ -9,7 +9,7 @@ A passionate Tech Enthusiast and M.Sc. IT Student
 - ⚡ Fun fact: **Gamer and ButtonCraft Founder**
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekkumar-ashtpolu-883735285/)
 
 ## Languages and Tools:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
