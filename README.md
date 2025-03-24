@@ -1,8 +1,10 @@
-# Hi 👋, I'm Vivek Ashtpolu
-
-A passionate Tech Enthusiast and M.Sc. IT Student
 
 ![Developer Animation](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+
+# Hi 👋, I'm Vivek Ashtpolu
+
+
+A passionate Tech Enthusiast and M.Sc. IT Student
 
 - 🌐 All of my projects are available at [GitHub](https://github.com/VivekAshtpolu)
 - 💬 Ask me about **Web Development, Android App Development, and AWS**
