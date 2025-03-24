@@ -3,7 +3,8 @@
 A passionate Tech Enthusiast and M.Sc. IT Student
 
 <p align="left">
-  <img src=https://raw.githubusercontent.com/VivekAshtpolu/VivekAshtpolu/main/assets/dark-theme-dev.gif
+  <img src=https://raw.githubusercontent.com/ashtpoluVivi/ashtpoluVivi/main/assets/dark-theme-dev.gif
+
 
 </p>
 
