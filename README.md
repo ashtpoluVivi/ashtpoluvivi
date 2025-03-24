@@ -1,6 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+my+GitHub!;Web+Developer;Android+App+Developer;AWS+Cloud+Enthusiast)
 
- ![Coding Man](assets/C:\Users\dell\Downloads\openart-image_mbX-w84B_1742797951749_raw.jpg)
+ ![Coding Man](assets/openart-image_mbX-w84B_1742797951749_raw.jpg)
+
 
 
 # Hi 👋, I'm Vivek Ashtpolu
