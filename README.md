@@ -21,7 +21,7 @@ A passionate Tech Enthusiast and M.Sc. IT Student
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## GitHub Stats:
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashtpoluvivi&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashtpoluvivi&layout=compact&theme=radical)
 
 ---
