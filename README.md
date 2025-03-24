@@ -29,9 +29,6 @@ A passionate Tech Enthusiast and M.Sc. IT Student
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashtpoluvivi&layout=compact&theme=radical)
 
----
-Let me know if you’d like to add anything, change colors, or update the links! 🚀
-
 <style>
 @keyframes bounce {
   0%, 20%, 50%, 80%, 100% {
