@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+my+GitHub!;Web+Developer;Android+App+Developer;AWS+Cloud+Enthusiast)
-![Coding Animation](https://github.com/yourusername/yourrepo/blob/main/assets/coding-animation.gif)
 
+![Coding Guy](https://github.com/yourusername/yourrepo/blob/main/assets/cartoon-coder.png)
 
 # Hi 👋, I'm Vivek Ashtpolu
 A passionate Tech Enthusiast and M.Sc. IT Student
@@ -26,6 +26,8 @@ A passionate Tech Enthusiast and M.Sc. IT Student
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashtpoluvivi&layout=compact&theme=radical)
 
-
 ---
-Feel free to personalize the animation or add anything else you’d like! 🚀
+
+📝 **Note:** Replace `yourusername`, `yourrepo`, and `yourlinkedin` with your actual GitHub username, repo, and LinkedIn profile link. Also, upload the image as `cartoon-coder.png` in the `assets` folder of your GitHub repository.
+
+Let me know if you’d like to make any changes or add more features! 🚀
