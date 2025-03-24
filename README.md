@@ -3,7 +3,8 @@
 A passionate Tech Enthusiast and M.Sc. IT Student
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/ashtpoluvivi/ashtpoluvivi/main/assets/dark-theme-dev.gif" alt="Dark Theme Developer Animation" width="300"/>
+  <img src=https://raw.githubusercontent.com/VivekAshtpolu/VivekAshtpolu/main/assets/dark-theme-dev.gif
+
 </p>
 
 - 🌐 All of my projects are available at [GitHub](https://github.com/VivekAshtpolu)
