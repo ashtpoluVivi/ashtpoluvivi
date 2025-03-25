@@ -24,8 +24,3 @@ A passionate Tech Enthusiast and M.Sc. IT Student
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashtpoluvivi&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashtpoluvivi&layout=compact&theme=radical)
 
----
-
-📝 **Note:** Replace `yourusername`, `yourrepo`, and `yourlinkedin` with your actual GitHub username, repo, and LinkedIn profile link. Also, upload the image as `cartoon-coder.png` in the `assets` folder of your GitHub repository.
-
-Let me know if you’d like to make any changes or add more features! 🚀
