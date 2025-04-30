@@ -24,4 +24,3 @@ A passionate Tech Enthusiast and M.Sc. IT Student
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashtpoluvivi&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashtpoluvivi&layout=compact&theme=radical)
 
-hi hello i am vivek  just wana aaaaaaaaa
